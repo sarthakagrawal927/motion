@@ -121,7 +121,7 @@ feel**, not infrastructure — which is exactly why v1 strips out all the server
 <!-- portfolio-retained-work:2026-09-07 -->
 ## Retained work from the portfolio review
 
-These are unresolved requirements retained at the owner’s request. They are not completed features. This project is inactive; this list is reference material, not an active roadmap.
+These are unresolved requirements retained at the owner’s request. They are not completed features. Motion is active again following the owner’s 25 October 2026 decision. This list records open requirements; the next validation focus is tracking reliability and control feel on a physical iPhone.
 
 ### Verify Motion v1 on a physical device: camera, pose mapping, ReplayKit, and control feel
 
